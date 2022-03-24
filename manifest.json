@@ -21,7 +21,6 @@
   },
   "permissions": [
     "contextMenus",
-    "activeTab",
     "clipboardWrite"
   ]
 }
